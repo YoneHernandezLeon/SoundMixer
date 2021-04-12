@@ -15,7 +15,7 @@ La aplicación permite:
 - Apagar todas las pistas a la vez.
 
 ### Decisiones adoptadas para la solución propuesta
-Para completar la aplciación, primero se creo la ventana y se dividió el fondo donde se muestran las frecuecias y el panel donde se encuentran los botones. Acto seguido, se implementaron dichos botones y se relacionó a cada uno con una letra, un color y una pista de la canción. Se siguió el desarrollo implementando a reproducción de las pistas en bucle y se completó la funcionalidad de los botones. Finalmente, se implementó una clase para la representación de las frecuencias, y se pulieron los detalles y corrigieron errores.
+Para completar la aplicación, primero se creo la ventana y se dividió el fondo donde se muestran las frecuencias y el panel donde se encuentran los botones. Acto seguido, se implementaron dichos botones y se relacionó a cada uno con una letra, un color y una pista de la canción. Se siguió el desarrollo implementando la reproducción de las pistas en bucle y se completó la funcionalidad de los botones. Finalmente, se implementó una clase para la representación de las frecuencias, y se pulieron los detalles y corrigieron errores.
 
 ### Resultado de la aplicación
 ![Animación 1](https://github.com/YoneHernandezLeon/SoundMixer/blob/main/soundmixer.gif?raw=true)
