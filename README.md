@@ -4,7 +4,7 @@ Autor: Yone Hernández León
 ### Descripción de la aplicación
 La aplicación consiste en un mixer de psitas de sonido con el cual se puede combinar diferentes conjuntos de pistas de una misma canción y visualizar las frecuencias de las mismas.
 
-### Controles de la aplciación
+### Controles de la aplicación
 - Botones Z, X, C, V, B, N y M para encender y apagar las pistas de la canción.
 - Boton ESPACIO para apagar todas las pistas.
 
